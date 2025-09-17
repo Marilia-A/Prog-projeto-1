@@ -13,3 +13,5 @@ public class Venda {
         System.out.println("Total: " + (prod.getPreco() * prod.getQtde()));  
     }
 }
+// Venda é uma classe que representa o processo de venda de um produto
+// Atributos são as características do produto que está sendo vendido

@@ -6,7 +6,7 @@ public class Produto {
 
     //Classe é qualquer representação de um objeto do mundo real -- Classe são processos
     //Atributos são as características do objeto
-    //Métodos são as ações que o objeto pode realizar
+    //Métodos são as ações que o objeto pode realizar ou que podem ser realizadas sobre o objeto
 
     public String getNome() {
         return nome;
